@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello,Dogs\n");
+	printf("コンフリクトにより変更\n");
 }
